@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "671975feed133d0986d86f1e",
+    "question": "What is the correct syntax to create a dictionary in Python?",
+    "answers": [
+      {
+        "text": "{'name': 'John', 'age': 30}",
+        "isCorrect": true
+      },
+      {
+        "text": "<'name': 'John', 'age': 30>",
+        "isCorrect": false
+      },
+      {
+        "text": "['name': 'John', 'age': 30]",
+        "isCorrect": false
+      },
+      {
+        "text": "('name': 'John', 'age': 30)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "_id": "671975feed133d0986d86f37",
+    "question": "What is the keyword to define a class in Python?",
+    "answers": [
+      {
+        "text": "function",
+        "isCorrect": false
+      },
+      {
+        "text": "def",
+        "isCorrect": false
+      },
+      {
+        "text": "class",
+        "isCorrect": true
+      },
+      {
+        "text": "module",
+        "isCorrect": false
+      }
+    ]
+  }
+]
